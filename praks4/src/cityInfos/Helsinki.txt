@@ -1,0 +1,1 @@
+{"city":{"CurrentTemp":1,"city":"Helsinki","coordinates":"60.1674:24.9426"},"ThreeDayForecast":{"DayOne":{"MaxTemp":3.78,"MinTemp":1.56},"DayThree":{"MaxTemp":3.29,"MinTemp":2.18},"DayTwo":{"MaxTemp":3.67,"MinTemp":2}}}

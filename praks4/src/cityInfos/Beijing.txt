@@ -1,0 +1,1 @@
+{"city":{"CurrentTemp":-8,"city":"Beijing","coordinates":"39.906:116.3912"},"ThreeDayForecast":{"DayOne":{"MaxTemp":-9.77,"MinTemp":-10.5},"DayThree":{"MaxTemp":-11.22,"MinTemp":-11.59},"DayTwo":{"MaxTemp":-11.67,"MinTemp":-12.21}}}

@@ -1,0 +1,1 @@
+{"city":{"CurrentTemp":1,"city":"Tallinn","coordinates":"59.4372:24.7454"},"ThreeDayForecast":{"DayOne":{"MaxTemp":0.01,"MinTemp":-0.32},"DayThree":{"MaxTemp":-1.34,"MinTemp":-1.49},"DayTwo":{"MaxTemp":-1.26,"MinTemp":-1.5}}}
